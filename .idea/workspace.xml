@@ -5,79 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3fb6934-806d-40ad-82cb-eb91e9ae23cc" name="Changes" comment="u">
-      <change beforePath="$PROJECT_DIR$/.idea/NeuralNetworks2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NeuralNetworks2023.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_01/Python_Basics_With_Numpy.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_01/images/Sigmoid.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_01/images/classification_kiank.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_01/images/grad_summary.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_01/images/image2vector_kiank.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_01/images/sgd.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_01/images/sgd_bad.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_02/.ipynb_checkpoints/Planar_data_classification_with_one_hidden_layer-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_02/.ipynb_checkpoints/Python_Basics_With_Numpy-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_02/Planar_data_classification_with_one_hidden_layer.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_02/images/Sigmoid.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_02/images/classification_kiank.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_02/images/grad_summary.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_02/images/image2vector_kiank.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_02/images/sgd.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_02/images/sgd_bad.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_02/planar_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_02/testCases.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_02/testCases_v2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/.ipynb_checkpoints/1.Building_your_Deep_Neural_Network_Step_by_Step-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/.ipynb_checkpoints/2.Deep_Neural_Network_Application-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/1.Building_your_Deep_Neural_Network_Step_by_Step.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/2.Deep_Neural_Network_Application.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/datasets/test_catvnoncat.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/datasets/train_catvnoncat.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/dnn_app_utils_v2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/dnn_app_utils_v3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/dnn_utils_v2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/images/2layerNN.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/images/2layerNN_kiank.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/images/LlayerNN_kiank.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/images/NlayerNN.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/images/backpass.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/images/backprop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/images/backprop_kiank.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/images/final outline.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/images/imvector (1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/images/imvector.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/images/imvectorkiank.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/images/linearback_kiank.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/images/mn_backward.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/images/model_architecture2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/images/model_architecture_kiank.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/images/my_image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/images/n_model_backward.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/images/nm_backward.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/images/relu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/images/structure.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/testCases_v3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_03/testCases_v4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_04/0. Pytorch.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_04/1. Pytorch basics.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_04/2. Linear regression.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_04/3. Logistic regression.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_04/4. Feed forward fully connected neural network.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_04/5. Feed forward convolutional neural network (Lenet5).ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_04/Lenet5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_04/deep learning 60min blitz/.ipynb_checkpoints/autograd_tutorial-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_04/deep learning 60min blitz/.ipynb_checkpoints/neural_networks_tutorial-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_04/deep learning 60min blitz/.ipynb_checkpoints/tensor_tutorial-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_04/deep learning 60min blitz/autograd_tutorial.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_04/deep learning 60min blitz/cifar10_tutorial.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_04/deep learning 60min blitz/links.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_04/deep learning 60min blitz/neural_networks_tutorial.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_04/deep learning 60min blitz/tensor_tutorial.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_04/image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_04/model.ckpt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_04/xLeNet5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_04/Домашнее_задание_4_Решение_задачи_оптимизации.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_04/Домашнее_задание_5_нелинейная_регрессия.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_05/Домашнее_задание_5_нелинейная_регрессия (copy).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_06/Домашнее задание 6 - перенос кода в pytorch.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/homework_06/Домашнее задание 6 - перенос кода в pytorch.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,16 +42,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/serj/Study/GitHub/ComputationalMethods2023&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/serj/Documents/RUDN/sem_01/ComputationalMethods2023",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hw week 2 done" />
